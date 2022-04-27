@@ -1,10 +1,10 @@
 using System;
 
 
-namespace R5T.T0128
+namespace R5T.T0128.T002
 {
     /// <summary>
-    /// <see cref="FileContext"/> and <see cref="FileSet{TEntity}"/> types.
+    /// FileContextBasedRepositoryBase<TFileContext> type.
     /// </summary>
     public static class Documentation
     {

@@ -1,10 +1,10 @@
 using System;
 
 
-namespace R5T.T0128
+namespace R5T.T0128.T001
 {
     /// <summary>
-    /// <see cref="FileContext"/> and <see cref="FileSet{TEntity}"/> types.
+    /// JsonFileSet implementation.
     /// </summary>
     public static class Documentation
     {
